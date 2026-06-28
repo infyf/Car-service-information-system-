@@ -1,0 +1,6 @@
+@AutoServ_HostAddress = http://localhost:5280
+
+GET {{AutoServ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
